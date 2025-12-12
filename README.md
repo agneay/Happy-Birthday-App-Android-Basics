@@ -7,4 +7,8 @@ One of the projects in android dev pathway
 ![stars](https://img.shields.io/github/stars/agneay/Happy-Birthday-App-Android-Basics?style=for-the-badge)
 ![issues](https://img.shields.io/github/issues/agneay/Happy-Birthday-App-Android-Basics?style=for-the-badge)
 
+
+## App Preview
+![](./appPreview.png)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y21JGEH6)
